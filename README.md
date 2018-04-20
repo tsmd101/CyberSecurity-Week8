@@ -47,7 +47,7 @@ In this part of the assignment the red link, you can change ID number and see pe
 
 Vulnerability #2: Cross-Site Request Forgery (CSRF)
 The good news I think about running a HTML form on this assignment, is that the values can be changed without having the proper access or even being an admin. The HTML is in this repo accordingly.
-![Alt Text](https://github.com/tsmd101/Week-8-WS/blob/master/gif/red2.gif)
+![Alt Text](https://github.com/tsmd101/Week-8-WS/blob/master/gif/red2.gif)  
 
 
 
